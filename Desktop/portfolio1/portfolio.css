@@ -1,0 +1,428 @@
+#navItem1 {
+    color:white;
+    font-family: "Roboto";
+    font-size:20px;
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+    font-size:20px;
+}
+
+#navItem3{
+    color: white;
+    font-family: "Roboto";
+    font-size:20px;
+}
+
+#navItem4{
+    color: white;
+    font-family: "Roboto";
+    font-size:20px;
+}
+
+.logo {
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container1{
+    background-color: #191a1d;
+    height:800px;
+}
+
+.hi{
+    padding:20px;
+}
+
+.heading1{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    margin-bottom: 15px;
+}
+
+.name{
+    color:blue; 
+}
+
+.para1{
+    color:#9aa5b1;
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+
+.button1{
+    background-color: #4b6cc1;
+    height:45px;
+    width:130px;
+    color:white;
+    padding:5px;
+    border-radius: 5px;
+}
+
+.img1{
+    height: 270px;
+    width: 250px; 
+}
+
+.container2{
+    background-color: #323f4b;
+    padding-bottom:50px;
+    padding:30px;
+
+}
+
+.img2{
+    height:420px;
+    width:380px;
+    margin-left:40px;
+    border-radius: 5px;
+}
+
+.hi2{
+    padding-top: 30px;
+    margin-top:15px;
+}
+
+.heading2{
+    color:#cced00;
+    font-size:28px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.heading3{
+    color:white;
+    font-size:45px;
+    margin-bottom:15px;
+    font-weight: bold;
+}
+
+.para2{
+    color: #9aa5b1;
+    font-size:20px;
+    margin-bottom:20px;
+}
+
+.para3{
+    color: #9aa5b1;
+    font-size:20px;
+}
+
+.hi1{
+    padding-top:30px;
+    margin-top:15px;
+}
+
+.container3{
+    background-color: #1f2933;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:45px;
+    padding-bottom:45px;
+}
+
+.heading4{
+    color:#cced00;
+    font-size:28px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.card1{
+    height:200px;
+    width:210px;
+    background-color: #323f4b;
+    border-radius:4px;
+    padding:5px;
+    margin-right:50px;
+}
+
+.img3{
+   height:60px;
+   width:60px;
+   margin-bottom: 8px; 
+}
+
+.para4{
+    color: white;
+    font-weight: bold;
+    font-size:30px;
+    text-align:center;
+}
+
+.card2{
+    height:200px;
+    width:210px;
+    background-color: #323f4b;
+    border-radius:4px;
+    padding:5px;
+    margin-right:50px;
+}
+
+.hlo{
+    padding-left:55px;
+    margin-bottom:40px;
+}
+
+.container4{
+    background-color:#3e4c59;
+    padding:30px;
+}
+
+.heading5{
+    color:white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top:5px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.para5{
+    color:#9aa5b1;
+    font-size:16px;
+    margin-bottom: 10px;
+}
+
+.heading6{
+    font-family: "Roboto";
+    color:white;
+    font-size:25px;
+    margin-bottom:10px;
+}
+
+.para6{
+  color:#9aa5b1;
+  font-size:20px;
+  font-family: "Roboto";
+  margin-bottom:20px;
+}
+
+.link{
+    color:#cced00;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.img4{
+    height:250px;
+}
+
+.om{
+    padding:20px;
+}
+
+.cardd1{
+    background-color: #323f4b;
+    height:550px;
+    width:500px;
+    margin-right:100px;
+    margin-left: 50px;
+}
+
+.cardd2{
+    background-color: #323f4b;
+    height:550px;
+    width:500px;
+}
+
+.heading7{
+    color:#cced00;
+    font-size:28px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    margin-left:50px;
+}
+
+
+.container5{
+    background-color: #52606d;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+.carddd1{
+    background-color: #323f4b;
+    height:420px;
+    width:500px;
+    margin-right:100px;
+    padding:25px;
+    border-radius: 6px;
+}
+
+.carddd2{
+    background-color: #323f4b;
+    height:460px;
+    width:500px;
+    margin-right:100px;
+    padding:25px;
+    border-radius: 6px;
+}
+
+.carddd3{
+    background-color: #323f4b;
+    height:440px;
+    width:500px;
+    padding:25px;
+    border-radius: 6px;
+}
+
+
+.img5{
+    height:80px;
+    width:80px;
+    margin-bottom: 15px; 
+ }
+
+ .heading9{
+    font-family: "Roboto";
+    color:white;
+    font-size:30px;
+    margin-bottom:15px;
+    font-weight: bold;
+}
+
+.container6{
+    padding:50px;
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+}
+
+.hr{
+    color:white;
+}
+
+.para7{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.para8{
+    font-size:30px;
+    color:white;
+}
+
+.good{
+    padding:15px;
+    margin-right:100px;
+}
+
+.icon{
+    font-size: 90px;
+    color:white;
+    font-weight: bold;
+}
+
+.bg-container {
+    background-color: #1f2933;
+
+}
+
+.heading11{
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.heading12 {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+.anu{
+    margin-left:270px;;
+}
+
+.satya{
+    padding-top:25px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:40px;
+    background-color: #323f4b;
+    height:600px;
+}
+ 
+.img5{
+    text-align:center;
+    height:200px;
+    width:180px;
+    border-radius:100px;
+    margin-left:150px;
+}
+
+.para9{
+    color:#9aa5b1;
+    font-size:25px;
+    margin-bottom: 20px;
+}
+
+.para10{
+    color:white;
+    font-family: "Roboto";
+    font-size:30px;
+     margin-left: 180px;
+}
+
+.container7 {
+    background-color: #0d2436;
+
+}
+
+.imgp {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.headingp{
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #cced00;
+}
+
+.parap{
+    color: #5a7184;
+    font-family: "Roboto";
+}
+
+.headingq {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #cced00;
+    font-size: 22px;
+}
+
+.icon1{
+    color: #5a7184;
+    font-size: 24px;
+}
+
+.paraq{
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.secbg {
+    background-color: #001c32;
+    text-align:center;
+    font-family: "Roboto";
+    padding:15px;
+}
+
